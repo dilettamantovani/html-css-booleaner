@@ -52,3 +52,12 @@ h1 {
 .list {
     padding-left: 1.2%;
 }
+
+thead {
+    background-color: rgb(103, 186, 241);
+    color: white;
+}
+
+.lightblue-line {
+    background-color: lightblue;
+}
