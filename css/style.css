@@ -5,6 +5,8 @@ body {
 header {
     background-color: rgb(87, 181, 240);
     background-image: url(../img/pattern.png);
+    background-size: 30%;
+    background-repeat: repeat-x;
 }
 
 .logo {
@@ -14,3 +16,30 @@ header {
     padding-bottom: 0.5%;
 }
 
+main {
+    padding-left: 5px;
+}
+
+h1 {
+    margin-bottom: 0%;
+    margin-top: 1%;
+    font-size: xx-large;
+}
+
+#author {
+    margin-top: 0%; 
+    margin-bottom: 0%;
+    color: rgb(91, 91, 91);
+    font-size: medium;
+}
+
+#day {
+    margin-top: 0%;
+    color: rgb(91,91,91);
+    font-size: small;
+}
+
+#author-link {
+    color: rgb(95, 228, 233);
+    text-decoration: none;
+}
