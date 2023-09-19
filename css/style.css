@@ -29,17 +29,26 @@ h1 {
 #author {
     margin-top: 0%; 
     margin-bottom: 0%;
-    color: rgb(91, 91, 91);
+    color: rgb(109, 109, 109);
     font-size: medium;
+    font-weight: 600;
 }
 
 #day {
     margin-top: 0%;
-    color: rgb(91,91,91);
+    color: rgb(109, 109, 109);
     font-size: small;
 }
 
 #author-link {
     color: rgb(95, 228, 233);
     text-decoration: none;
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.list {
+    padding-left: 1.2%;
 }
